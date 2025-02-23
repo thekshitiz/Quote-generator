@@ -22,7 +22,7 @@ A beautiful and responsive quote generator that fetches inspiring quotes from Th
 
 ## Live Demo
 
-[View Live Demo](thekshitiz.github.io/Quote-generator/) <!-- Add your deployment link here -->
+[View Live Demo](https://thekshitiz.github.io/Quote-generator) <!-- Add your deployment link here -->
 
 ## How to Use
 
